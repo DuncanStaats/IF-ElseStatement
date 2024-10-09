@@ -45,5 +45,5 @@ if cat_age <= 6:
 #Task 2
 #a) Aprroach #1 is the only one that works. 
 #b)I think the difference is that one it has elif's after the first if so that they are all connected throughout the code.
-# Two it goes from the lowest to the highest which causes it not to check the rest of the elif's sense it already 
+# Two it goes from the lowest to the highest which causes it not to check the rest of the elif's if it already 
 # triggered one of the elif's.
